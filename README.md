@@ -21,16 +21,7 @@ Each script focuses on real-world tasks such as:
 ---
 
 ## 📂 Scripts Overview
-
-oss-audit-24BCE10532/
-│
-├── script1.sh         # System Identity Report
-├── script2.sh         # FOSS Package Inspector
-├── script3.sh         # Disk and Permission Auditor
-├── script4.sh         # Log File Analyzer
-├── script5sh          # Open Source Manifesto Generator
-├── images/            # Containing all the screenshots
-└── README.md                        
+                 
 
 ### 🔹 Script 1 — System Identity Report
 
@@ -202,10 +193,4 @@ The full project report (PDF) has been submitted separately on the VITyarthi por
 This project was completed as part of the Open Source Software (OSS) course at VIT. All scripts were written and tested on Ubuntu 24.04.4 LTS running as a VirtualBox VM.
 
 
-## ⭐ Support
-
-If you like this project:
-⭐ Star the repo
-🍴 Fork it
-📢 Share it
 
